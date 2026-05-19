@@ -1,82 +1,155 @@
-# IPL Power BI Analysis Dashboard
+#  IPL Power BI Analysis Dashboard
 
-## Overview
+##  Project Overview
 
-This project is an interactive IPL (Indian Premier League) analytics dashboard built using Power BI. The dashboard provides insights into team performance, player statistics, venue analysis, toss decisions, scoring patterns, and advanced match trends across IPL seasons.
+This project is an interactive IPL (Indian Premier League) analytics dashboard built using Power BI.
+The dashboard provides detailed insights into team performance, player statistics, venue analysis, toss decisions, match trends, and strategic IPL patterns across multiple seasons.
 
----
-
-## Key Features
-
-* Executive overview dashboard with KPIs
-* Team performance analysis across seasons
-* Player performance insights
-* Venue and match analysis
-* Advanced IPL match insights
-* Interactive slicers and navigation buttons
-* Strategic insights and conclusions page
+The project focuses on transforming raw cricket data into meaningful business-style insights using interactive visualizations and storytelling techniques.
 
 ---
 
-## Tools & Technologies Used
+#  Features
+
+* Executive Overview Dashboard
+* Team Performance Analysis
+* Player Performance Insights
+* Match & Venue Analysis
+* Advanced IPL Trends
+* Strategic Insights & Conclusions
+* Interactive Slicers & Navigation
+* Multi-page Analytical Reporting
+
+---
+
+#  Tools & Technologies Used
 
 * Power BI
 * Power Query
 * DAX
-* Excel/CSV Datasets
+* Excel / CSV Datasets
 * GitHub
 
 ---
 
-## Dashboard Pages
+#  Dashboard Pages
 
-1. Executive Overview
-2. Team Analysis
-3. Player Analysis
-4. Match & Venue Analysis
-5. Advanced Insights
-6. Strategic Insights & Conclusions
+## 1️ Executive Overview
 
----
-
-## Screenshots
-
-### Executive Overview
-
-![Executive Overview](Screenshots/executive_overview.png)
-
-### Team Analysis
-
-![Team Analysis](Screenshots/team_analysis.png)
-
-### Player Analysis
-
-![Player Analysis](Screenshots/player_analysis.png)
-
-### Match & Venue Analysis
-
-![Venue Analysis](Screenshots/venue_analysis.png)
-
-### Advanced Insights
-
-![Advanced Insights](Screenshots/advanced_insights.png)
-
-### Strategic Insights
-
-![Strategic Insights](Screenshots/strategic_insights.png)
+* Total Matches
+* Total Runs
+* Total Wickets
+* Toss Decision Trends
+* Seasonal Performance Trends
 
 ---
 
-## Insights Generated
+## 2️ Team Analysis
 
-* Mumbai Indians and CSK dominate IPL history
-* Virat Kohli leads IPL run scoring
-* Teams increasingly prefer chasing after toss wins
-* Wankhede and Eden Gardens favor high-scoring matches
-* Death overs generate maximum match intensity
+* Team Performance Across Seasons
+* Chasing vs Defending Analysis
+* Wins by Runs vs Wickets
+* Team Strategy Insights
 
 ---
 
-## Author
+## 3️ Player Analysis
 
-Vidit Bhutani
+* Top Run Scorers
+* IPL Power Hitters
+* Leading Wicket Takers
+* Player of the Match Awards
+
+---
+
+## 4️ Match & Venue Analysis
+
+* Highest Scoring Venues
+* Venue-wise Match Distribution
+* Runs by Match Phase
+* Average Target Scores by Venue
+
+---
+
+## 5️ Advanced Insights
+
+* Toss Decision Trends
+* Match Result Methods
+* Over-wise Run Trends
+* Wickets by Match Phase
+
+---
+
+## 6️ Strategic Insights & Conclusions
+
+* Batting Insights
+* Team Insights
+* Venue Insights
+* Match Insights
+
+---
+
+#  Dashboard Screenshots
+
+## Executive Overview
+
+![Executive Overview](executive_overview.png)
+
+---
+
+## Team Analysis
+
+![Team Analysis](team_analysis.png)
+
+---
+
+## Player Analysis
+
+![Player Analysis](player_analysis.png)
+
+---
+
+## Match & Venue Analysis
+
+![Venue Analysis](venue_analysis.png)
+
+---
+
+## Advanced Insights
+
+![Advanced Insights](advanced_insights.png)
+
+---
+
+## Strategic Insights
+
+![Strategic Insights](strategic_insights.png)
+
+---
+
+#  Key Insights Generated
+
+* Mumbai Indians and Chennai Super Kings dominate IPL history.
+* Virat Kohli leads IPL run scoring charts.
+* Teams increasingly prefer chasing after winning the toss.
+* Death overs generate maximum match intensity.
+* Certain venues consistently produce high-scoring matches.
+
+---
+
+#  Files Included
+
+* Power BI Dashboard (.pbix)
+* IPL Dataset
+* Dashboard Screenshots
+* Project Documentation
+
+---
+
+#  Author
+
+## Vidit Bhutani
+
+Aspiring Data Analyst | Power BI Enthusiast | Economics Student
+
+---
